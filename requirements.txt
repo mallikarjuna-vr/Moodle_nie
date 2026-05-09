@@ -6,4 +6,4 @@ allure-pytest
 faker
 openpyxl
 pytest-rerunfailures
-pytest-xdist
+
