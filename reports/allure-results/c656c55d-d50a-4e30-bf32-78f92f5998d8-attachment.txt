@@ -1,0 +1,4 @@
+Login failed, please check your credentials and try again.
+Failed to navigate to course page.
+Failed to navigate to upload page.
+Failed to download file:

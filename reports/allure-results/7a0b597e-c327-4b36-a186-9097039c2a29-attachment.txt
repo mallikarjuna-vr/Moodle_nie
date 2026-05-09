@@ -1,0 +1,26 @@
+Running for user: 2023ec_mallikarjunavr_a@nie.ac.in
+File saved at: C:\Users\malli\Downloads\coursers_certificates\Exploring_Networking_with_Cisco_Packet_Tracer_certificate_2023ec_mallikarjunavr_a-nie-ac-in_59b8d24d-dad3-478d-a532-19a78a55755f.pdf
+Running for user: 2023ec_krmruthyunjaya_a@nie.ac.in
+File saved at: C:\Users\malli\Downloads\coursers_certificates\Exploring_Networking_with_Cisco_Packet_Tracer_certificate_2023ec_krmruthyunjaya_a-nie-ac-in_891d0120-dfc9-4635-83e3-34b4f530c3d2.pdf
+Running for user: 2023ec_nithishs_a@nie.ac.in
+File saved at: C:\Users\malli\Downloads\coursers_certificates\Exploring_Networking_with_Cisco_Packet_Tracer_certificate    Nithish S
+Running for user: 2023ec_cnveeresh_a@nie.ac.in
+File saved at: C:\Users\malli\Downloads\coursers_certificates\Exploring_Networking_with_Cisco_Packet_Tracer_certificate_2023ec_cnveeresh_a-nie-ac-in_6306dfab-ffed-462a-b2c8-d2358f6682e9.pdf
+Running for user: 2023ec_adarshr_a@nie.ac.in
+File saved at: C:\Users\malli\Downloads\coursers_certificates\Exploring_Networking_with_Cisco_Packet_Tracer_certificate_2023ec_adarshr_a-nie-ac-in_ecbf91a9-4679-478a-9eaf-169532084184.pdf
+Running for user: 2023ec_bmanikanta_a@nie.ac.in
+File saved at: C:\Users\malli\Downloads\coursers_certificates\Exploring_Networking_with_Cisco_Packet_Tracer_certificate_2023ec_bmanikanta_a-nie-ac-in_b4cf4e6a-660f-45d5-bc42-fcc96a487a76.pdf
+Running for user: 2023ec_nandanb_a@nie.ac.in
+File saved at: C:\Users\malli\Downloads\coursers_certificates\Exploring_Networking_with_Cisco_Packet_Tracer_certificate_2023ec_nandanb_a-nie-ac-in_d6a02f22-c6d5-4ea9-a3e2-78ac00b20c14.pdf
+Running for user: 2023ec_adithyay_a@nie.ac.in
+Login failed, please check your credentials and try again.
+Failed to navigate to course page.
+Failed to navigate to upload page.
+Failed to download file:
+Failed to log out.
+Running for user: 2023ec_mniranjan_a@nie.ac.in
+Login failed, please check your credentials and try again.
+Failed to navigate to course page.
+Failed to navigate to upload page.
+Failed to download file:
+Failed to log out.

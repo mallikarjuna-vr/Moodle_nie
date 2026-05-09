@@ -1,0 +1,7 @@
+Running for user: 2023ec_mallikarjunavr_a@nie.ac.in
+File saved at: C:\Users\malli\Downloads\coursers_certificates\Exploring_Networking_with_Cisco_Packet_Tracer_certificate_2023ec_mallikarjunavr_a-nie-ac-in_59b8d24d-dad3-478d-a532-19a78a55755f.pdf
+Running for user: 2023ec_deepars_a@nie.ac.in
+Login failed, please check your credentials and try again.
+Failed to navigate to course page.
+Failed to navigate to upload page.
+Failed to download file:
