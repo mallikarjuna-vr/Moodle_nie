@@ -21,7 +21,7 @@ def browser_context(playwright,browser_context_args):
 @pytest.fixture(scope="function")
 def page(browser_context, base_url):
     page = browser_context.new_page()
-    page.goto(base_url)
+    page.goto(base_url, wait_until="domcontentloaded", timeout=60000)
     yield page
     page.close()
 
